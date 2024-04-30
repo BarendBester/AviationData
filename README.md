@@ -47,5 +47,6 @@ This repository contains Python code for analyzing bird strikes on aircraft from
 
 
 ![fd8bb67546bb2a5b106ca87efcd666951882de20e2164166b9e289907fe5144e_1](https://github.com/BarendBester/AviationData/assets/121133689/ba81bf8f-15d9-4c74-862b-e20c2e1fdcc1)
+<img src="https://github.com/BarendBester/AviationData/assets/121133689/ba81bf8f-15d9-4c74-862b-e20c2e1fdcc1" alt="Image" width="400">
 
 - Find a link to kaggle here https://www.kaggle.com/datasets/faa/wildlife-strikes/data
