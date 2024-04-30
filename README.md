@@ -1,5 +1,7 @@
 # Birdstrike Analysis (Aircraft Wildlife Strikes 1990-2015)
 
+<img src="https://github.com/BarendBester/AviationData/assets/121133689/ba81bf8f-15d9-4c74-862b-e20c2e1fdcc1" alt="Image" width="400">
+
 ## Overview
 This repository contains Python code for analyzing bird strikes on aircraft from 1990 to 2015. The purpose of this analysis is to gain insights into birdstrike incidents and practice Python coding skills.
 
@@ -46,7 +48,5 @@ This repository contains Python code for analyzing bird strikes on aircraft from
 ![violin](https://github.com/BarendBester/AviationData/assets/121133689/a7e41d87-0c68-4558-834b-2b119bb219c6)
 
 
-![fd8bb67546bb2a5b106ca87efcd666951882de20e2164166b9e289907fe5144e_1](https://github.com/BarendBester/AviationData/assets/121133689/ba81bf8f-15d9-4c74-862b-e20c2e1fdcc1)
-<img src="https://github.com/BarendBester/AviationData/assets/121133689/ba81bf8f-15d9-4c74-862b-e20c2e1fdcc1" alt="Image" width="400">
 
 - Find a link to kaggle here https://www.kaggle.com/datasets/faa/wildlife-strikes/data
