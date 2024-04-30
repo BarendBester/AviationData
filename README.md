@@ -8,6 +8,8 @@
 1. Which part of the aircraft is struck?
 2. Which species bird are struck the most?
 3. During which phase are these birds being struck?
+![violin](https://github.com/BarendBester/AviationData/assets/121133689/a7e41d87-0c68-4558-834b-2b119bb219c6)
+
 
 ![fd8bb67546bb2a5b106ca87efcd666951882de20e2164166b9e289907fe5144e_1](https://github.com/BarendBester/AviationData/assets/121133689/ba81bf8f-15d9-4c74-862b-e20c2e1fdcc1)
 
