@@ -13,6 +13,15 @@ This repository contains Python code for analyzing bird strikes on aircraft from
 
 3. **During which phase are these birds being struck?**
     - Analysis of the 'Phase of Flight' column to identify when strikes occur most frequently.
+
+4. **Is there a relationship between state and operator?**
+    - Use Heatmap to look at the relationship
+    - Use chi-square tests
+
+5. **Is there a relationship between the Bird species struck and the year of the accident?**
+    - Use Boxplots and Violin plot
+    - Use Kruskal-Wallis test
+   
 ## Statistics
 ### The chi-square statistic and the p-value obtained suggest that there is a statistically significant association between the 'Operator' and 'State' variables.
 
@@ -34,10 +43,9 @@ This repository contains Python code for analyzing bird strikes on aircraft from
 
 - In practical terms, this result indicates that the distribution of accident years varies significantly across different bird species, implying that certain species might be involved in incidents more frequently in certain years compared to others.
 
-
 ![violin](https://github.com/BarendBester/AviationData/assets/121133689/a7e41d87-0c68-4558-834b-2b119bb219c6)
 
 
 ![fd8bb67546bb2a5b106ca87efcd666951882de20e2164166b9e289907fe5144e_1](https://github.com/BarendBester/AviationData/assets/121133689/ba81bf8f-15d9-4c74-862b-e20c2e1fdcc1)
 
-## Find a link to kaggle here https://www.kaggle.com/datasets/faa/wildlife-strikes/data
+- Find a link to kaggle here https://www.kaggle.com/datasets/faa/wildlife-strikes/data
