@@ -1,5 +1,4 @@
 # Birdstrike Analysis (Aircraft Wildlife Strikes 1990-2015)
-## A repository with an analysis on Birdstrike data in the US.
 ## The nature of this exercise is to practice pyhton coding
 ### Libraries used:
 - Seaborn
